@@ -8,7 +8,7 @@
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiven-vamja-10236a306/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/uhVUEvpjLJ/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shv_365)
+
 
 
 ### ⚒️ Languages and Tools:
