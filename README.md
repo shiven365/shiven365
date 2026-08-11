@@ -2,8 +2,8 @@
 ### A Passionate Full Stack Developer from India  
 
 - 💬 Ask me about **React, MERN stack, Web Development**  
-- 📫 Reach me at: **shivenvamja365@gmail.com**  
-- 🤝 I’m open to freelancing projects  
+- 📫 Reach me at: **shivenvamja40@gmail.com**  
+  
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiven-vamja-10236a306/)
